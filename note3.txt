@@ -1,0 +1,16 @@
+proj: JavaAPIs
+181107
+~ JavaAPIs Basic Concept
+
+API: Using Java
+
+remtjapi https://github.com/Candy128x/JavaAPIs.git
+brnjapi
+brnjapio
+
+---
+
+ref
+YT: https://youtu.be/5jQSat1cKMo
+
+annotation ?
